@@ -23,7 +23,7 @@ class EssentialCMD : public IAPICmd
                     int  curID=drvRdMainBrdId( curSlot );
                     if(curID==PEB64_ID)
                     {
-                            
+                            int x=10;
                     }
                 }
                 
