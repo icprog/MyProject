@@ -1,0 +1,6 @@
+; PciinfDll.def : 宣告 DLL 的模組參數。
+
+LIBRARY      "PciinfDll"
+
+EXPORTS
+    ; 外顯匯出方法可置於此

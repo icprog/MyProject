@@ -1,0 +1,6 @@
+; NewAC64Dll.def : Declares the module parameters for the DLL.
+
+LIBRARY      "NewAC64Dll"
+
+EXPORTS
+    ; Explicit exports can go here
